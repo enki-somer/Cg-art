@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Mystical Forest",
+    "category": "Environment",
+    "image": "/images/cg (1).jpg",
+    "description": "A serene and enchanting forest environment with magical elements."
+  },
+  {
+    "id": "2",
+    "title": "Futuristic City",
+    "category": "Environment",
+    "image": "/images/cg (2).jpg",
+    "description": "A sprawling metropolis showcasing advanced architecture and technology."
+  },
+  {
+    "id": "3",
+    "title": "Digital Warrior",
+    "category": "3D Character",
+    "image": "/images/cg (3).jpg",
+    "description": "A detailed character design blending traditional and futuristic elements."
+  },
+  {
+    "id": "4",
+    "title": "Ancient Temple",
+    "category": "Environment",
+    "image": "/images/cg (4).jpg",
+    "description": "A mysterious temple environment with intricate architectural details."
+  },
+  {
+    "id": "5",
+    "title": "Cyber Realm",
+    "category": "Concept Art",
+    "image": "/images/cg (5).jpg",
+    "description": "A conceptual piece exploring themes of technology and nature."
+  }
+]
